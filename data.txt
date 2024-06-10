@@ -1,0 +1,1 @@
+query_id=AAHB4qEVAwAAAMHioRUAi_nA&user=%7B%22id%22%3A6805381825%2C%22first_name%22%3A%22Dayari%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22dyrii21%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718030899&hash=496b36041cb8ed9bae4ede3b1645f5d4e3a02750b3a5ac2c7bd4383267184b95
