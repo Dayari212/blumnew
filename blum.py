@@ -10,7 +10,7 @@ init(autoreset=True)
 
 def check_tasks(token):
     headers = {
-        'Authorization': f'Bearer {token}',
+        'Authorization': 'Bearer {token}',
         'accept': 'application/json, text/plain, */*',
         'accept-language': 'en-US,en;q=0.9',
         'content-length': '0',
