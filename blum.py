@@ -71,8 +71,8 @@ def start_task(token, task_id,titlenya):
         print(f"{Fore.RED+Style.BRIGHT}\nFailed to start task {titlenya} {response.status_code} ")
 
 def claim_task(token, task_id,titlenya):
-    print(f"{Fore.YELLOW+Style.BRIGHT}\nClaiming task {titlenya}")
-    url = f'https://game-domain.blum.codes/api/v1/tasks/{task_id}/claim'
+    print("{Fore.YELLOW+Style.BRIGHT}\nClaiming task {titlenya}")
+    url = 'https://game-domain.blum.codes/api/v1/tasks/{task_id}/claim'
     headers = {
         'Authorization': f'Bearer {token}',
         'accept': 'application/json, text/plain, */*',
